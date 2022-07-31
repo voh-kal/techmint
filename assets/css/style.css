@@ -11,7 +11,13 @@
 :root {
   scroll-behavior: smooth;
 }
-
+.part_ners{
+  align-items: center;
+  padding: 30px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0px 0 30px rgb(1 41 112 / 8%);
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
